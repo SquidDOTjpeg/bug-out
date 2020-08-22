@@ -18,7 +18,7 @@ MERN Stack
 - Express
 - React.js
 - Node.js
-
+----------------------------
 - Dragula for drag and drop
 - Bootstrap
 - A nifty joke [API](https://www.programmableweb.com/api/geek-jokes-rest-api)
