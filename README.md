@@ -24,10 +24,10 @@ MERN Stack
 - A nifty joke [API](https://www.programmableweb.com/api/geek-jokes-rest-api)
 
 # Contributers
--[Dru Sanchez](https://github.com/Drubaloo)
--[Kayla Ward](https://github.com/Kaylaw0127)
--[Nick Hernstedt](https://github.com/nick-hernstedt)
--[Anthony Pillow](https://github.com/SquidDOTjpeg)
+- [Dru Sanchez](https://github.com/Drubaloo)
+- [Kayla Ward](https://github.com/Kaylaw0127)
+- [Nick Hernstedt](https://github.com/nick-hernstedt)
+- [Anthony Pillow](https://github.com/SquidDOTjpeg)
 
 # Links
 [Deployed](https://bug-out-anthony.herokuapp.com/)
